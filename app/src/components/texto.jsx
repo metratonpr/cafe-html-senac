@@ -1,9 +1,9 @@
 export default function Texto() {
     return (
-        <section>
+        <section id="header">
             <div>
                 {/* h1 ate h6 */}
-                <h1>Bem Vindo ao Café Aroma Grãos</h1>
+                <h1>Bem Vindo ao Café Aroma Grãos - Senac</h1>
                 {/* parágrafo */}
                 <p>O melhor café da cidade, feito com <strong>grãos</strong> selecionados
                     e paixão pela arte de preparar <span>café.</span></p>
