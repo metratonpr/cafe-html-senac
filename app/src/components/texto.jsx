@@ -16,6 +16,14 @@ export default function Texto() {
                     <h6>Menor titulo</h6>
                 </div>
             </div>
+
+           <div className="citacao">
+                <blockquote> 
+                    "O melhor café...."
+                </blockquote>
+                <cite>Fulano de Tal</cite>
+           </div>
         </section>
+
     );
 }
